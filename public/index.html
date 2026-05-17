@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet"
+    >
+</head>
+
+<body>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+        <div class="logo">
+            💳 CashFlow
+        </div>
+
+        <nav class="menu">
+
+            <a href="index.html" class="active">
+                🏠 Home
+            </a>
+
+            <a href="cash-flow.html">
+                💰 Cash Flow
+            </a>
+
+            <a href="data-user.html">
+                👤 Users
+            </a>
+
+            <a href="ai.html">
+                📊 Analytics
+            </a>
+
+            <a href="#" onclick="logout()">
+                🚪 Logout
+            </a>
+
+        </nav>
+
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main-content">
+
+        <!-- HEADER -->
+        <div class="topbar">
+
+            <div>
+                <h1>Home🙌</h1>
+                <p id="welcome">
+                    Welcome Back
+                </p>
+            </div>
+
+        </div>
+
+        <!-- STATS -->
+        <section class="cards">
+
+            <div class="card-box">
+
+                <span>Total Balance</span>
+
+                <h2 id="total-saldo">
+                    Rp 0
+                </h2>
+
+            </div>
+
+            <div class="card-box">
+
+                <span>Income</span>
+
+                <h2 id="pemasukan">
+                    Rp 0
+                </h2>
+
+            </div>
+
+            <div class="card-box">
+
+                <span>Expense</span>
+
+                <h2 id="pengeluaran">
+                    Rp 0
+                </h2>
+
+            </div>
+
+        </section>
+
+        <!-- ANALYTICS -->
+        <section class="chart-box">
+
+        <h2>Analytics</h2>
+
+        <canvas id="financeChart"></canvas>
+
+        </section>
+
+        <!-- QUICK ACTION -->
+        <section class="quick-menu">
+
+            <button
+                onclick="window.location.href='cash-flow.html'">
+
+                💰 Add Transaction
+
+            </button>
+
+            <button
+                onclick="window.location.href='data-user.html'">
+
+                👤 User Data
+
+            </button>
+
+            <button onclick="logout()">
+
+                🚪 Logout
+
+            </button>
+
+        </section>
+
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="dashboard.js"></script>
+
+</body>
+</html>

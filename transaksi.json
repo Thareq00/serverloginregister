@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1778747633592,
+    "username": "thareq",
+    "keterangan": "Token listrik",
+    "jumlah": "105000",
+    "tipe": "keluar",
+    "tanggal": "11/5/2026"
+  },
+  {
+    "id": 1778747660989,
+    "username": "thareq",
+    "keterangan": "Galon aqua",
+    "jumlah": "30000",
+    "tipe": "keluar",
+    "tanggal": "11/5/2026"
+  },
+  {
+    "id": 1778747682457,
+    "username": "thareq",
+    "keterangan": "Coffeshop",
+    "jumlah": "93000",
+    "tipe": "keluar",
+    "tanggal": "10/5/2026"
+  },
+  {
+    "id": 1778747736719,
+    "username": "thareq",
+    "keterangan": "Jajan malam",
+    "jumlah": "51000",
+    "tipe": "keluar",
+    "tanggal": "12/5/2026"
+  },
+  {
+    "id": 1778747836994,
+    "username": "thareq",
+    "keterangan": "Selang air",
+    "jumlah": "70000",
+    "tipe": "keluar",
+    "tanggal": "13/5/2026"
+  },
+  {
+    "id": 1778750427242,
+    "username": "thareq",
+    "keterangan": "Uang untuk Mei",
+    "jumlah": "2035000",
+    "tipe": "masuk",
+    "tanggal": "11/5/2026"
+  },
+  {
+    "id": 1778750690330,
+    "username": "thareq",
+    "keterangan": "Fuel",
+    "jumlah": "30000",
+    "tipe": "keluar",
+    "tanggal": "13/5/2026"
+  },
+  {
+    "id": 1778840505521,
+    "username": "thareq",
+    "keterangan": "Kuota internet",
+    "jumlah": "36000",
+    "tipe": "keluar",
+    "tanggal": "13/5/2026"
+  },
+  {
+    "id": 1778894922232,
+    "username": "thareq",
+    "keterangan": "Telur",
+    "jumlah": "26500",
+    "tipe": "keluar",
+    "tanggal": "15/5/2026"
+  },
+  {
+    "id": 1778894973615,
+    "username": "thareq",
+    "keterangan": "Mie Instan",
+    "jumlah": "37000",
+    "tipe": "keluar",
+    "tanggal": "15/5/2026"
+  },
+  {
+    "id": 1778906224092,
+    "username": "thareq",
+    "keterangan": "Fuel",
+    "jumlah": "30000",
+    "tipe": "keluar",
+    "tanggal": "16/5/2026"
+  },
+  {
+    "id": 1778906344368,
+    "username": "thareq",
+    "keterangan": "Gatsby+Sunscreen",
+    "jumlah": "48000",
+    "tipe": "keluar",
+    "tanggal": "16/5/2026"
+  },
+  {
+    "id": 1778983169410,
+    "username": "thareq",
+    "keterangan": "Gopay",
+    "jumlah": "42000",
+    "tipe": "keluar",
+    "tanggal": "17/5/2026"
+  }
+]
